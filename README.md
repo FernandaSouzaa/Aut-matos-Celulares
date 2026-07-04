@@ -20,5 +20,7 @@ Demonstrar como regras locais simples podem gerar comportamentos complexos, simu
 - Após determinado número de iterações, um indivíduo infectado recupera-se ou morre.
 - Todas as células são atualizadas simultaneamente, caracterizando um autômato celular.
 
+## Como executar
+python cellular_epidemic.py
 
 Disciplina: Autômatos Celulares
