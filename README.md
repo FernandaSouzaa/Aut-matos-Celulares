@@ -23,4 +23,3 @@ Demonstrar como regras locais simples podem gerar comportamentos complexos, simu
 ## Como executar
 python cellular_epidemic.py
 
-Disciplina: Autômatos Celulares
